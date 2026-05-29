@@ -15,33 +15,6 @@ It listens to the machines. It watches the cameras. It reads the manuals. And it
 
 ---
 
-## Getting started
-
-**1. Clone the repo**
-```bash
-git clone https://github.com/Aureo01/NexusCore.git
-cd nexuscore
-```
-
-**2. Install dependencies**
-```bash
-pip install langgraph langchain langchain-openai numpy torch
-```
-
-**3. Set your OpenAI API key**
-```bash
-export OPENAI_API_KEY=your-key-here
-```
-
-**4. Run**
-```bash
-python nexuscore_factory.py
-```
-
-You'll see the CLI dashboard start up. Press Enter to trigger a reasoning cycle, type `/exit` to shut down.
-
----
-
 ## How it works
 
 ```
@@ -97,6 +70,33 @@ nexuscore_factory/
   ├── multimodal_memory.db   ← Auto-created on first run
   └── nexuscore.log          ← Runtime logs
 ```
+
+---
+
+## Getting started
+
+**1. Clone the repo**
+```bash
+git clone https://github.com/Aureo01/NexusCore.git
+cd nexuscore
+```
+
+**2. Install dependencies**
+```bash
+pip install langgraph langchain langchain-openai numpy torch
+```
+
+**3. Set your OpenAI API key**
+```bash
+export OPENAI_API_KEY=your-key-here
+```
+
+**4. Run**
+```bash
+python nexuscore_factory.py
+```
+
+You'll see the CLI dashboard start up. Press Enter to trigger a reasoning cycle, type `/exit` to shut down.
 
 ---
 
