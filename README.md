@@ -66,7 +66,7 @@ Docs   ──┘                                               Safety Gate
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/nexuscore
+git clone https://github.com/Aureo01/NexusCore.git
 cd nexuscore
 ```
 
