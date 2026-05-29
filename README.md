@@ -126,7 +126,7 @@ CRITICAL severity events are never acted on autonomously. The system can log, al
 
 ## Author
 
-Built by **Álvaro** — feel free to reach out or open an issue.
+Built by Aureo01 — feel free to reach out or open an issue.
 
 ---
 
