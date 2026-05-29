@@ -21,9 +21,9 @@ It listens to the machines. It watches the cameras. It reads the manuals. And it
 Sensors ──┐
 Video  ──┤──► Temporal Aligner ──► Multimodal Fuser ──► LangGraph Brain ──► Action
 Audio  ──┤                                                      │
-Docs   ──┘                                               Safety Gate
-                                                               │
-                                                     Auto-act  OR   Alert human
+Docs   ──┘                                                Safety Gate
+                                                                │
+                                                     Auto-act   OR   Alert human
 ```
 
 **Step by step:**
