@@ -24,7 +24,7 @@ Video  ──┤──► Temporal Aligner ──► Multimodal Fuser ──► 
 Audio  ──┤                                                      │
 Docs   ──┘                                               Safety Gate
                                                                │
-                                                    ✅ Auto-act  OR  🚨 Alert human
+                                                     Auto-act  OR   Alert human
 ```
 
 **Step by step:**
