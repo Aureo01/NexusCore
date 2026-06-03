@@ -1,5 +1,6 @@
 # NexusCore
-Real-time multimodal AI brain for industrial environments. Fuses sensor telemetry, video, audio, and document context into a unified reasoning pipeline using LangGraph, enabling autonomous anomaly detection, severity classification, and operational directives with a built-in safety gate for human-in-the-loop control.
+Real-time multimodal AI system that monitors industrial environments and detects failures by combining sensor, video, audio, and document data into a single reasoning pipeline.
+It classifies risk levels, generates operational responses, and uses human-in-the-loop safety for critical actions.
 
 ### *Multimodal AI brain for industrial environments*
 
