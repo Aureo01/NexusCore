@@ -126,7 +126,7 @@ CRITICAL severity events are never acted on autonomously. The system can log, al
 
 ## Author
 
-"Built by Álvaro Obando — AI Engineer focused on agentic systems and industrial AI.
+Built by Álvaro Obando — AI Engineer focused on agentic systems and industrial AI.
 
 ---
 
